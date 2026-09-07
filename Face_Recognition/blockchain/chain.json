@@ -53,5 +53,20 @@
     },
     "previous_hash": "3954d8d359d53196ed60c6e6d97cb91d9e82be098f2900753d77c1ed2e979400",
     "hash": "f03b42e3ce4f282927b39e74ee064b1b610c191799e088532a9a9ebcc704d5bc"
+  },
+  {
+    "index": 4,
+    "timestamp": 1788806411.2248595,
+    "data_hash": "d70d627522b8643f0a0e1384dbdbaa30024dcbc57f2384773708cedd4a20a421",
+    "data": {
+      "platform": "Instagram",
+      "post_url": "https://about.instagram.com/",
+      "matched_image_url": "https://about.instagram.com/",
+      "match_type": "visual_match",
+      "search_engine": "Google Lens",
+      "discovered_at": "2026-09-07T18:40:11.162987+00:00"
+    },
+    "previous_hash": "f03b42e3ce4f282927b39e74ee064b1b610c191799e088532a9a9ebcc704d5bc",
+    "hash": "5400298958bb50789b336cae5eeba654c0c95d0c479cbd3f1f431cbd23420cf3"
   }
 ]
